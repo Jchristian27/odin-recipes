@@ -1,1 +1,3 @@
 # odin-recipes
+
+I completed this project without issue and had a blast doing do. Unfortunatley something weird happened with my local git repo so I had to erase it as well as my first github repo and resync them up. That kind of bummed me out because I was proud of all the atomic commits I was making with strong, concise commit messages each time. Hopefully this wont happen again with future projects. 
